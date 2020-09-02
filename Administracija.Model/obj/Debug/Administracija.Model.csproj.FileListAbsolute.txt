@@ -1,0 +1,5 @@
+C:\Users\aco19\source\repos\Administracija\Administracija.Model\bin\Debug\Administracija.Model.dll
+C:\Users\aco19\source\repos\Administracija\Administracija.Model\bin\Debug\Administracija.Model.pdb
+C:\Users\aco19\source\repos\Administracija\Administracija.Model\obj\Debug\Administracija.Model.csproj.CoreCompileInputs.cache
+C:\Users\aco19\source\repos\Administracija\Administracija.Model\obj\Debug\Administracija.Model.dll
+C:\Users\aco19\source\repos\Administracija\Administracija.Model\obj\Debug\Administracija.Model.pdb
